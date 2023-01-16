@@ -1,0 +1,22 @@
+  /home/ibrah/Documents/Javascript/svelte/grocery-store:
+  total used in directory 240 available 180.7 GiB
+  drwxrwxr-x   6 ibrah ibrah   4096 Jan 15 23:59 .
+  drwxrwxr-x   4 ibrah ibrah   4096 Jan 15 20:52 ..
+  -rw-rw-r--   1 ibrah ibrah    160 Jan 15 20:52 .eslintignore
+  -rw-rw-r--   1 ibrah ibrah    296 Jan 15 20:52 .eslintrc.cjs
+  -rw-rw-r--   1 ibrah ibrah    148 Jan 15 20:52 .gitignore
+  -rw-rw-r--   1 ibrah ibrah    584 Jan 15 20:52 jsconfig.json
+  drwxrwxr-x 204 ibrah ibrah   4096 Jan 15 22:49 node_modules
+  -rw-rw-r--   1 ibrah ibrah     19 Jan 15 20:52 .npmrc
+  -rw-rw-r--   1 ibrah ibrah    975 Jan 15 22:49 package.json
+  -rw-rw-r--   1 ibrah ibrah 167858 Jan 15 22:49 package-lock.json
+  -rw-rw-r--   1 ibrah ibrah     82 Jan 15 22:32 postcss.config.cjs
+  -rw-rw-r--   1 ibrah ibrah    160 Jan 15 20:52 .prettierignore
+  -rw-rw-r--   1 ibrah ibrah    233 Jan 15 20:52 .prettierrc
+  -rw-rw-r--   1 ibrah ibrah    944 Jan 15 20:52 README.md
+  drwxrwxr-x   4 ibrah ibrah   4096 Jan 15 22:37 src
+  drwxrwxr-x   2 ibrah ibrah   4096 Jan 15 20:52 static
+  -rw-rw-r--   1 ibrah ibrah    253 Jan 15 22:46 svelte.config.js
+  drwxrwxr-x   4 ibrah ibrah   4096 Jan 15 20:54 .svelte-kit
+  -rw-rw-r--   1 ibrah ibrah    159 Jan 15 22:52 tailwind.config.cjs
+  -rw-rw-r--   1 ibrah ibrah    158 Jan 15 20:52 vite.config.js
